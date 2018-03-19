@@ -1,4 +1,5 @@
 # Custom
+._.*
 *DS_Store
 .ipynb_checkpoints
 *~
