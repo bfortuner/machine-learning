@@ -22,6 +22,7 @@ from IPython.display import HTML
 import graphviz
 import imutils
 import skimage
+import seaborn as sns
 
 import torch
 import torchvision

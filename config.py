@@ -1,3 +1,3 @@
 import os
 
-DATA_DIR = '/bigguy/data'
+DATA_DIR = os.path.join('data/')

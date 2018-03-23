@@ -1,9 +1,11 @@
 # Custom
+
 ._.*
 *DS_Store
 .ipynb_checkpoints
 *~
 data/cifar*
+data/._*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
